@@ -1,0 +1,17 @@
+# Cache
+Upload/cache/
+Upload/uploads/
+*.log
+
+# Config
+Upload/inc/settings.php
+Upload/inc/config.php
+Upload/LocalSettings*.php
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+*.swp
